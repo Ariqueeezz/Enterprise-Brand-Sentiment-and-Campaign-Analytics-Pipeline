@@ -6,7 +6,7 @@
 
 **Sumber:** https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/review_categories/Electronics.jsonl.gz
 
-**Lokasi penyimpanan:** Google Drive — `/skripsi-project/data/raw/Electronics.jsonl.gz`
+**Lokasi penyimpanan:** Google Drive — `/EBSCAP/data/raw/Electronics.jsonl.gz` 
 
 | No. | Kriteria DoD | Status | Keterangan |
 |-----|--------------|--------|------------|
